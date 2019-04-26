@@ -7,7 +7,7 @@ echo -e "\t\t\t\t\t   | |\/| |\ V /| |   | |   |  _|"
 echo -e "\t\t\t\t\t   | |  | | | | | |___| |___| |"__ 
 echo -e "\t\t\t\t\t   |_|  |_| |_| |_____|_____|_____|"
 echo -e "\t\t\t\t\t   --------------------------------"
-echo -e "\t\t\t\t\t\t\t     Author:- Nihal"
+echo -e "\t\t\t\t\t\t\t           By Nihal"
 echo
 echo -e " ______________________________"
 echo -e " |           MENU              |"
