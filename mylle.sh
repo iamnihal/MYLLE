@@ -1,22 +1,30 @@
 #!/bin/bash
-#This script will make your life 0.000001% easier than what it was before!!
-clear
-echo  "______________________________"
-echo  "|           MENU              |"
-echo  "|_____________________________|"  
-echo  "| 1) Make Directory           |"
-echo  "| 2) Create File              |"
-echo  "| 3) Copy                     |"
-echo  "| 4) Move/Cut                 |"
-echo  "| 5) Delete                   |"
-echo  "| 6) Rename                   |"
-echo  "| 7) List files/directory     |"
-echo  "| 8) Show content of file     |"
-echo  "| 9) List information of file |"
-echo  "|10) System Information       |"
-echo  "|11) List Processes           |"
-echo  "|12) Kill Process             |"
-echo  "-------------------------------"
+#This script will make your life 0.000000001% easier than what it was before!!
+clear                                
+echo -e "\t\t\t\t\t    __  ____   ___     _     _____" 
+echo -e "\t\t\t\t\t   |  \/  \ \ / / |   | |   | ____| ®"
+echo -e "\t\t\t\t\t   | |\/| |\ V /| |   | |   |  _|"  
+echo -e "\t\t\t\t\t   | |  | | | | | |___| |___| |"__ 
+echo -e "\t\t\t\t\t   |_|  |_| |_| |_____|_____|_____|"
+echo -e "\t\t\t\t\t   --------------------------------"
+echo -e "\t\t\t\t\t\t\t     Author:- Nihal"
+echo
+echo -e " ______________________________"
+echo -e " |           MENU              |"
+echo -e " |_____________________________|"  
+echo -e " | 1) Make Directory           |"
+echo -e " | 2) Create File              |"
+echo -e " | 3) Copy                     |"
+echo -e " | 4) Move/Cut                 |"
+echo -e " | 5) Delete                   |"
+echo -e " | 6) Rename                   |"
+echo -e " | 7) List files/directory     |"
+echo -e " | 8) Show content of file     |"
+echo -e " | 9) List information of file |"
+echo -e " |10) System Information       |"
+echo -e " |11) List Processes           |"
+echo -e " |12) Kill Process             |"
+echo -e " -------------------------------"
 
 make_dir()
 {        
